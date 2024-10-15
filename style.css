@@ -1,0 +1,81 @@
+.column{
+    display: flex;
+    margin-left: 200px;
+    text-align: center;
+    padding: 10px;
+    align-items:center ;
+    margin-top: 80px;
+    justify-content: center;
+    border: 0px solid;
+    background-color: hsl(0, 0%, 95%);
+    height: 400px;
+    width: 1000px;
+}
+.one{
+    border: 0px solid;
+    border-radius: 0px;
+    background-color:hsl(31, 77%, 52%);
+    text-align: start;
+    border-left: none;
+    border-right: none;
+    height: 350px;
+    width: 250px;
+    padding-left: 20px;
+}
+.two{
+    border: 0px solid;
+    border-radius: 0px;
+    background-color:hsl(184, 100%, 22%) ;
+    text-align: start;
+    border-left: none;
+    height: 350px;
+    width: 250px;
+    padding-left: 20px;
+}
+.three{
+    border: 0px solid;
+    border-radius: 0px;
+    background-color: hsl(179, 100%, 13%);
+    text-align: start;
+    height: 350px;
+    width: 250px;
+    padding-left: 20px;
+}
+button{
+    margin-top: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100px;
+    height: 30px;
+    margin-left: 15px;
+    
+}
+.icon{
+    margin-top: 30px;
+}
+h1{
+    color:hsl(0, 0%, 95%) ;
+}
+h2{
+    color: hsl(0, 0%, 95%);
+}
+h3{
+    color: hsl(0, 0%, 95%);
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.text1 button{
+    color:hsl(31, 77%, 52%) ;
+    
+}
+.text2 button{
+    color:hsl(184, 100%, 22%) ;
+}
+.text3 button{
+    color:  hsl(179, 100%, 13%);
+}
